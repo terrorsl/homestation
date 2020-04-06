@@ -5,3 +5,4 @@ function Test()
 {
   alert('test');
 }
+Test();
